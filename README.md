@@ -14,10 +14,8 @@
 * TinyML (Still learning machine learning on small devices_iI?_)
 * 3D modeling & PCB design
 
-** We ought to make the world a Better!**
-
-Building tech for positive impact!
-
+**We ought to make the world a Better!**
+<hr>
 <img src="all might.gif">
 
   
@@ -27,11 +25,18 @@ Building tech for positive impact!
 * Learning new languages (Coding & spoken!)
 * Nature adventures (Gotta appreciate the beauty!)
 
-** See you on the other side!**
+**See you on the other side!**
 
 **P.S.** Not your average nerd. 
 
-**(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧**
+<a href="https://twitter.com/Pkwolffe">Twitter</a>
+<a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a>
+<br>
+<a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
+
+
+
+**(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ **
 
 
 <!--
