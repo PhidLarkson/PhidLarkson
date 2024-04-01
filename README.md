@@ -1,26 +1,29 @@
 ### Hi there 👋
-<center>**--==(°ω°)っ≡つ  Python Power!  つ(°ω°)==--**</center>
+<center>(°ω°)っ≡つ  Python Power!  つ(°ω°)</center>
 
 <center><h1>Prince Larbi</h1></center>
 <center><h3>Pythonista | Web Dev (Django & Flask) | IoT Enthusiast</h3></center>
 
 <hr>
 
-** Skills**
+<b>What I am familiar with?!</b>
 
 * Python scripting (Love it!)
 * Web development (Django & Flask)
 * IoT: Arduino, Raspberry Pi, Flipper Zero
-* TinyML (Machine learning on small devices)
+* TinyML (Still learning machine learning on small devices_iI?_)
 * 3D modeling & PCB design
 
-** Making a Better World (SDG Enthusiast)**
+** We ought to make the world a Better! **
 
 Building tech for positive impact!
 
+<div class="tenor-gif-embed" data-postid="20353294" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/peppo-dance-programming-gif-20353294">Peppo Dance Sticker</a>from <a href="https://tenor.com/search/peppo-stickers">Peppo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+  
 **✨ Off the Clock**
 
-* Anime marathons (Recommendations welcome!)
+* Watch anime (Open to recommendations!)
 * Learning new languages (Coding & spoken!)
 * Nature adventures (Gotta appreciate the beauty!)
 
