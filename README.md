@@ -27,11 +27,11 @@
 
 **See you on the other side!**
 
-**P.S.** Not your average nerd. 
+**P.S.** Not average. 
 
 <a href="https://twitter.com/Pkwolffe">Twitter</a>
 <a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a>
-<br>
+<br><br>
 <a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
 
 
