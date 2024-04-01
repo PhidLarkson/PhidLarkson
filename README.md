@@ -14,11 +14,11 @@
 * TinyML (Still learning machine learning on small devices_iI?_)
 * 3D modeling & PCB design
 
-** We ought to make the world a Better! **
+** We ought to make the world a Better!**
 
 Building tech for positive impact!
 
-<div class="tenor-gif-embed" data-postid="20353294" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/peppo-dance-programming-gif-20353294">Peppo Dance Sticker</a>from <a href="https://tenor.com/search/peppo-stickers">Peppo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[<div class="tenor-gif-embed" data-postid="20353294" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/peppo-dance-programming-gif-20353294">Peppo Dance Sticker</a>from <a href="https://tenor.com/search/peppo-stickers">Peppo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://imgur.com/o4Hqucc)
 
   
 **✨ Off the Clock**
