@@ -1,38 +1,35 @@
 ### Hi there 👋
-
-<center>**<anime girl coding with python on laptop animated GIF>**</center>
+<center>**--==(°ω°)っ≡つ  Python Power!  つ(°ω°)==--**</center>
 
 <center><h1>Prince Larbi</h1></center>
-<center><h3>Python Backend Developer | Web Developer | IoT Enthusiast</h3></center>
+<center><h3>Pythonista | Web Dev (Django & Flask) | IoT Enthusiast</h3></center>
 
 <hr>
 
-** Tech Stack**
+** Skills**
 
-* ** Python** (Anaconda enthusiast )
-* ** Web Development** (Let's build something cool!)
-* ** tinkering with:**
-    * Arduino (Making things move!)
-    * Raspberry Pi (Mini computer, endless possibilities!)
-    * Flipper Zero ()
-* ** Data Analysis & Reporting** (Turning data into insights!)
-* ** Desktop Automation** (Making your life easier with automation!)
+* Python scripting (Love it!)
+* Web development (Django & Flask)
+* IoT: Arduino, Raspberry Pi, Flipper Zero
+* TinyML (Machine learning on small devices)
+* 3D modeling & PCB design
 
-** Contributing to a Better World (SDG Enthusiast)**
+** Making a Better World (SDG Enthusiast)**
 
-Building tech for positive social impact! 
+Building tech for positive impact!
 
-**✨ In My Free Time**
+**✨ Off the Clock**
 
-* ** Watching Anime** (Sharing recommendations welcome! )
-* ** Learning New Languages** (Both coding and spoken languages! ️)
-* ** Exploring Scenic Views** (Nature is beautiful! ️)
+* Anime marathons (Recommendations welcome!)
+* Learning new languages (Coding & spoken!)
+* Nature adventures (Gotta appreciate the beauty!)
 
 ** See you on the other side!**
 
-**P.S.** I'm not your typical nerd. 
+**P.S.** Not your average nerd. 
 
-**<anime thumbs up GIF>**
+**(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧**
+
 
 <!--
 **PhidLarkson/PhidLarkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
