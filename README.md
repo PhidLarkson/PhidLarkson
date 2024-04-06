@@ -29,11 +29,7 @@
 
 **P.S.** Not average. 
 
-- Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>
-<br>
-- Prince Larbi's <a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a>
-<br>
-- Prince Larbi's <a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
+- Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>, <a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a> x <a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
 
 
 
