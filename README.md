@@ -11,7 +11,7 @@
 * Python scripting (Love it!)
 * Web development (Django & Flask)
 * IoT: Arduino, Raspberry Pi, Flipper Zero
-* TinyML (Still learning machine learning on small devices_iI?_)
+* TinyML (Still learning machine learning on small devices:brain:)
 * 3D modeling & PCB design
 
 **We ought to make the world a Better!**
@@ -29,10 +29,11 @@
 
 **P.S.** Not average. 
 
-<a href="https://twitter.com/Pkwolffe">Twitter</a>
-<a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a>
-<br><br>
-<a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
+- Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>
+<br>
+- Prince Larbi's <a href="https://www.linkedin.com/in/prince-larbi-96b852266/">LinkedIn</a>
+<br>
+- Prince Larbi's <a href="https://phidlarkson.github.io/Portfolio/">Portfolio website</a>
 
 
 
