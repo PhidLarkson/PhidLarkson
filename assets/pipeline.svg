@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Pipeline: sense, infer on the edge, model as a digital twin, see it in XR.">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="960" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="190" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="190" fill="#080d1f"/>
+    <g font-family="'SF Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="middle">
+      <!-- links -->
+      <g fill="none" stroke="url(#g)" stroke-width="2" stroke-dasharray="6 8">
+        <path d="M200 80H340"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+        <path d="M460 80H590"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+        <path d="M710 80H840"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+      </g>
+      <circle r="4" fill="#22d3ee"><animateMotion dur="2.4s" repeatCount="indefinite" path="M200 80H340"/></circle>
+      <circle r="4" fill="#22d3ee"><animateMotion dur="2.4s" begin=".8s" repeatCount="indefinite" path="M460 80H590"/></circle>
+      <circle r="4" fill="#a78bfa"><animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite" path="M710 80H840"/></circle>
+
+      <!-- nodes -->
+      <g>
+        <rect x="80" y="45" width="120" height="70" rx="12" fill="#0d1530" stroke="#22d3ee" stroke-opacity=".7"/>
+        <text x="140" y="86" font-size="17" fill="#e2e8f0">sensors</text>
+        <text x="140" y="146" font-size="13" fill="#94a3b8">Arduino, ESP32</text>
+      </g>
+      <g>
+        <rect x="340" y="45" width="120" height="70" rx="12" fill="#0d1530" stroke="#22d3ee" stroke-opacity=".7"/>
+        <text x="400" y="86" font-size="17" fill="#e2e8f0">edge AI</text>
+        <text x="400" y="146" font-size="13" fill="#94a3b8">Raspberry Pi, offline</text>
+      </g>
+      <g>
+        <rect x="590" y="45" width="120" height="70" rx="12" fill="#0d1530" stroke="#a78bfa" stroke-opacity=".7"/>
+        <text x="650" y="86" font-size="17" fill="#e2e8f0">twin</text>
+        <text x="650" y="146" font-size="13" fill="#94a3b8">live digital model</text>
+      </g>
+      <g>
+        <rect x="840" y="45" width="120" height="70" rx="12" fill="#0d1530" stroke="#a78bfa" stroke-opacity=".7"/>
+        <text x="900" y="86" font-size="17" fill="#e2e8f0">XR</text>
+        <text x="900" y="146" font-size="13" fill="#94a3b8">Quest, phone, web</text>
+      </g>
+      <text x="500" y="178" font-size="12" fill="#64748b">sense  &gt;  infer locally  &gt;  model  &gt;  see it</text>
+    </g>
+  </g>
+</svg>
