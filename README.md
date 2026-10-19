@@ -1,6 +1,6 @@
 # Prince Larbi
 
-Computer engineer and research assistant in Kumasi, Ghana. I build virtual reality, IoT and edge AI systems that run well where resources are limited, and I am a Research Assistant at the Distributed IoT Platforms, Privacy, and Edge-Intelligence Research Lab (DIPPER Lab) at Kwame Nkrumah University of Science and Technology.
+Computer engineer and research assistant. I build virtual reality, IoT and edge AI systems that run well where resources are limited, and I am a Research Assistant at the Distributed IoT Platforms, Privacy, and Edge-Intelligence Research Lab (DIPPER Lab) at Kwame Nkrumah University of Science and Technology.
 
 <img src="all might.gif" width="360">
 
