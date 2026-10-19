@@ -1,37 +1,42 @@
-### Hi there 👋
-<center><h1>Prince Larbi</h1></center>
-<center><h3>Pythonista | Web Dev (Django & Flask) | IoT Enthusiast</h3></center>
+# Prince Larbi
 
-<hr>
+Computer engineer and research assistant in Kumasi, Ghana. I build virtual reality, IoT and edge AI systems that run well where resources are limited, and I am a Research Assistant at the Distributed IoT Platforms, Privacy, and Edge-Intelligence Research Lab (DIPPER Lab) at Kwame Nkrumah University of Science and Technology.
 
-<b>What I am familiar with?!</b>
+<img src="all might.gif" width="360">
 
-* Python scripting (Love it!)
-* Web development (Django & Flask)
-* IoT: Arduino, Raspberry Pi, Flipper Zero
-* TinyML (Still learning machine learning on small devices:brain:)
-* 3D modeling & PCB design
+## What I work on
 
-**We ought to make the world a Better!**
-<hr>
-<img src="all might.gif">
+- Virtual and extended reality for teaching, lab guidance and outreach
+- Language and speech models small enough to run offline on a Raspberry Pi
+- IoT and digital twins on Arduino and ESP32 boards
+- Assistive technology and Ghanaian language tools
+- Open source and student communities: Wikimedia Technical, NASA Space Apps Kumasi
 
-  
-**✨ Off the Clock**
+## Skills
 
-* Watch anime (Open to recommendations!)
-* Learning new languages (Coding & spoken!)
-* Nature adventures (Gotta appreciate the beauty!)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**See you on the other side!**
+## GitHub in numbers
 
-**P.S.** Not average. 
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PhidLarkson&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhidLarkson&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
-- Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>, <a href="https://www.linkedin.com/in/princelarbi/">LinkedIn</a> x <a href="https://larbi.xyz">Portfolio website</a>
+## Off the clock
 
+Anime (recommendations welcome), learning new languages both coding and spoken, flying drones, and nature walks.
 
+## Find me
 
-**(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ **
-
-
-
+[Portfolio](https://larbi.xyz) | [LinkedIn](https://www.linkedin.com/in/princelarbi/) | [X](https://twitter.com/Pkwolffe)
