@@ -1,40 +1,37 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Prince Larbi. XR, edge AI, IoT and digital twins." width="100%">
-</p>
+### Hi there 👋
+<center><h1>Prince Larbi</h1></center>
+<center><h3>Pythonista | Web Dev (Django & Flask) | IoT Enthusiast</h3></center>
 
-I build virtual reality, IoT and edge AI systems that run well where resources are limited. I am a Research Assistant at the Distributed IoT Platforms, Privacy, and Edge-Intelligence Research Lab (DIPPER Lab) at Kwame Nkrumah University of Science and Technology.
+<hr>
 
-<p align="center">
-  <img src="assets/pipeline.svg" alt="Sense, infer on the edge, model as a digital twin, see it in XR." width="100%">
-</p>
+<b>What I am familiar with?!</b>
 
-## What I work on
+* Python scripting (Love it!)
+* Web development (Django & Flask)
+* IoT: Arduino, Raspberry Pi, Flipper Zero
+* TinyML (Still learning machine learning on small devices:brain:)
+* 3D modeling & PCB design
 
-- **XR.** Virtual and extended reality for teaching, lab guidance and outreach, on Meta Quest, phone and web.
-- **Edge AI.** Language and speech models made small enough to run offline on a Raspberry Pi.
-- **IoT and digital twins.** Arduino and ESP32 sensing, linked to live models.
-- **Assistive tech and local languages.** Tools for accessibility and for Ghanaian language translation and speech.
-- **Community.** Wikimedia Technical, NASA Space Apps Kumasi, and open source.
+**We ought to make the world a Better!**
+<hr>
+<img src="all might.gif">
 
-## Skills
+  
+**✨ Off the Clock**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,react,django,flask,pytorch,opencv,unity,arduino,raspberrypi,docker,linux&perline=12" alt="Skills">
-</p>
+* Watch anime (Open to recommendations!)
+* Learning new languages (Coding & spoken!)
+* Nature adventures (Gotta appreciate the beauty!)
 
-## GitHub in numbers
+**See you on the other side!**
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhidLarkson&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhidLarkson&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
+**P.S.** Not average. 
 
-## Off the clock
+- Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>, <a href="https://www.linkedin.com/in/princelarbi/">LinkedIn</a> x <a href="https://larbi.xyz">Portfolio website</a>
 
-<img align="right" src="all might.gif" width="220">
 
-Anime (recommendations welcome), learning new languages both coding and spoken, flying drones, and nature walks.
 
-## Find me
+**(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ **
 
-[Portfolio](https://larbi.xyz) | [LinkedIn](https://www.linkedin.com/in/princelarbi/) | [X](https://twitter.com/Pkwolffe)
+
+
