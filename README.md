@@ -1,20 +1,24 @@
 ### Hi there 👋
 <center><h1>Prince Larbi</h1></center>
-<center><h3>Pythonista | Web Dev (Django & Flask) | IoT Enthusiast</h3></center>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=480&lines=Python+scripting;Edge+AI+and+IoT;XR+and+digital+twins;Building+for+Ghana" alt="Typing intro">
-</p>
+<center><h3>Researcher | Industry engineer | XR, Edge AI & IoT</h3></center>
 
 <hr>
 
-<b>What I am familiar with?!</b>
+I am a Research Assistant at the Distributed IoT Platforms, Privacy, and Edge-Intelligence Research Lab (DIPPER Lab) at Kwame Nkrumah University of Science and Technology, and I build the same kind of systems in industry. My focus is making intelligent systems work where resources are limited.
 
-* Python scripting (Love it!)
-* Web development (Django & Flask)
-* IoT: Arduino, Raspberry Pi, Flipper Zero
-* TinyML (Still learning machine learning on small devices:brain:)
-* 3D modeling & PCB design
+<b>Research</b>
+
+* Digital twins at the edge: low-latency synchronisation between physical devices and their models (TwinBridge)
+* XR for learning and lab guidance
+* Assistive technology for accessibility
+* Long term: efficient sensing and screening for health, cancer research in particular
+
+<b>Industry</b>
+
+* Khaya AI: API platform, Python SDK, documentation and evaluation for Ghanaian language translation, speech recognition and text to speech
+* Algorine Ghana: running language and speech models offline on a Raspberry Pi
+* JALI: founder, building inclusive education tools and VR outreach across Ghana
+* Hackathons: ETHAccra 2024 Open Track first runner-up, and an XR lab assistant for the Rohde & Schwarz hackathon
 
 <b>Skill tags</b>
 
@@ -36,18 +40,6 @@
 <hr>
 <img src="all might.gif">
 
-<b>Small analytics</b>
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PhidLarkson&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhidLarkson&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
-<p>
-  <img height="130" src="https://streak-stats.demolab.com?user=PhidLarkson&hide_border=true&theme=tokyonight" alt="Contribution streak">
-  <img src="https://komarev.com/ghpvc/?username=PhidLarkson&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
-  
 **✨ Off the Clock**
 
 * Watch anime (Open to recommendations!)
@@ -56,13 +48,8 @@
 
 **See you on the other side!**
 
-**P.S.** Not average. 
+**P.S.** Not average.
 
 - Prince Larbi's <a href="https://twitter.com/Pkwolffe">Twitter</a>, <a href="https://www.linkedin.com/in/princelarbi/">LinkedIn</a> x <a href="https://larbi.xyz">Portfolio website</a>
 
-
-
 **(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ **
-
-
-
